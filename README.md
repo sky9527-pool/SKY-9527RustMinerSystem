@@ -92,6 +92,7 @@ bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/10/
     </td>
   </tr>
 </table>
+添加QQ群聊657074461
 
 ## 服务协议
 
