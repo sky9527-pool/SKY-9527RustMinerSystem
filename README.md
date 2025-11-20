@@ -3,8 +3,8 @@
 <h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
 
 
-    </a>
-</p>
+
+
 
 <p align="center">
   <a href="https://rustminersystem.gitbook.io/rustminersystem/chuan-tong-kuang-chi-dai-li/dai-li-chuan-tong-kuang-chi">矿池代理(抽水)</a> •
