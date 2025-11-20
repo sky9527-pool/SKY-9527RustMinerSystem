@@ -1,5 +1,5 @@
 # ![alt text](https://raw.githubusercontent.com/EvilGenius-dot/RustMinerSystem/refs/heads/main/image/_logo.svg)
-
+添加QQ群657074461
 <h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
 
 <p align="center">
@@ -63,25 +63,11 @@
 > - 复制运行以下shell指令以运行工具包
 
 ```
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/10/install.sh)
 ```
 
-> - 如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址
-
-```
-bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
 ```
 
-> - 如果您是ARM架构处理器, 请使用以下命令安装
-
-```
-# ARM
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
-```
-```
-# ARMV7
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
-```
 
 > - 成功运行后，您将看到以下菜单, 根据提示安装即可。
 
