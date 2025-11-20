@@ -1,5 +1,5 @@
 # ![alt text](https://raw.githubusercontent.com/EvilGenius-dot/RustMinerSystem/refs/heads/main/image/_logo.svg)
-添加QQ群657074461
+
 <h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
 
 <p align="center">
@@ -62,26 +62,15 @@
 > - 操作系统推荐使用Ubuntu
 > - 复制运行以下shell指令以运行工具包
 
-```
 bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/10/install.sh)
-```
-
-```
-
 
 > - 成功运行后，您将看到以下菜单, 根据提示安装即可。
 
 > ![screenshot](https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/install.gif)
 
 ### 加入聊天组
+QQ群657074461
 
-<a href="https://t.me/rustkt" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<a href="https://discord.gg/xpjRnv8wpX" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
-</a>
 
 
 ### 特别感谢
