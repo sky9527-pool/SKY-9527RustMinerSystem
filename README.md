@@ -53,7 +53,7 @@
 ### WINDOWS
 
 > 1. 打开以下链接：
-> 2. https://github.com/EvilGenius-dot/RustMinerSystem/tree/main/windows
+> 2. https://github.com/sky9527-pool/SKY-9527RustMinerSystem/tree/main/WIN
 > 3. 找到最新版的RustMinerSystem程序文件, 点击之后等页面跳转完毕找到View raw点击即可下载。
 > 4. 双击启动下载的程序, 根据提示浏览器访问即可进入RustMinerSystem管理后台。
 >5. 默认后台账号密码为 qzpm19kkx xloqslz913
