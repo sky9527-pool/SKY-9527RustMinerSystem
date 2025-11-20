@@ -2,16 +2,7 @@
 
 <h4 align="center">完备的虚拟货币挖矿全链路解决方案。</h4>
 
-<p align="center">
-    <a href="https://github.com/EvilGenius-dot/RustMinerSystem/releases">
-        <img src="https://img.shields.io/github/v/tag/EvilGenius-dot/RustMinerSystem?label=version&color" alt="version">
-    </a>
-    </a>
-    <a href="https://discord.gg/xpjRnv8wpX" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://github.com/EvilGenius-dot/RustMinerSystem">
-        <img src="https://img.shields.io/github/stars/EvilGenius-dot/RustMinerSystem.svg" alt="GitHub stars">
+
     </a>
 </p>
 
