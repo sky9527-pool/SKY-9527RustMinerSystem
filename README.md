@@ -63,40 +63,13 @@
 > - 复制运行以下shell指令以运行工具包
 
 ```
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
+bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/10/install.sh)
 ```
 
-> - 如果在部分地区下载过慢或是无法访问, 您可尝试备用安装地址
-
-```
-bash <(curl -s -L -k https://rustminersystem.com/EvilGenius-dot/RustMinerSystem/raw/main/install.sh)
-```
-
-> - 如果您是ARM架构处理器, 请使用以下命令安装
-
-```
-# ARM
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/arm-install.sh)
-```
-```
-# ARMV7
-bash <(curl -s -L https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/armv7-install.sh)
-```
 
 > - 成功运行后，您将看到以下菜单, 根据提示安装即可。
 
 > ![screenshot](https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/image/install.gif)
-
-### 加入聊天组
-
-<a href="https://t.me/rustkt" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-<a href="https://discord.gg/xpjRnv8wpX" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
-</a>
-
 
 ### 特别感谢
 
